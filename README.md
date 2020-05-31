@@ -43,7 +43,7 @@ Source: https://rki.mobility-covid19.teralytics.net/
 This data (analyzed and aggregated by the company Teralytics) is use by COVID-19 MOBILTY PROJECT:    
 https://www.covid-19-mobility.org/mobility-monitor/ (res.: http://rocs.hu-berlin.de/covid-19-mobility/de/mobility-monitor)    
 
-Documentation: https://www.covid-19-mobility.org/data-info/
+Documentation: https://www.covid-19-mobility.org/data-info/ (see also: https://www.teralytics.net/mobility-and-covid-19/)
 
 German cities down to neighbourhood/district level
 
