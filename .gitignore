@@ -8,5 +8,3 @@ __pycache__/
 .vscode/
 
 Pipfile.lock
-
-data/
