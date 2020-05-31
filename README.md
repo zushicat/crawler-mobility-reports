@@ -66,7 +66,7 @@ $ pipenv shell
 (You can leave the shell with "exit".)
 
 
-**Importand:** Create data directory:
+**Important: You need to create a data directory**
 ```
 $ mkdir data
 ```
