@@ -67,11 +67,6 @@ $ pipenv shell
 (You can leave the shell with "exit".)
 
 
-**Important: You need to create a data directory**
-```
-$ mkdir data
-```
-
 
 ### Crawl sources
 Call main request script to crawl all sources:
