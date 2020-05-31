@@ -8,7 +8,7 @@ Get mobility data of various granularity from following sources:
 
 All crawled files are csv files.    
 
-Please keep in mind: All sources lag behind to various degrees.    
+Please keep in mind: All sources lag behind to various degrees (from a few up to several days).    
 
 ## Data
 ### Apple Mobilitytrends
