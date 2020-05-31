@@ -1,7 +1,7 @@
 # crawler-mobility-reports
 Get mobility data from different sources.
 
-Get mobility data from following sources:
+Get mobility data of various granularity from following sources:
 - Apple
 - Google
 - teralytics / RKI
