@@ -40,8 +40,9 @@ Analysis of Google Location History (see documentation) and distinction between:
 ### teralytics / RKI
 Source: https://rki.mobility-covid19.teralytics.net/    
 
-This data (analyzed and aggregated by the company Teralytics) is use by COVID-19 MOBILTY PROJECT:
+This data (analyzed and aggregated by the company Teralytics) is use by COVID-19 MOBILTY PROJECT:    
 https://www.covid-19-mobility.org/mobility-monitor/ (res.: http://rocs.hu-berlin.de/covid-19-mobility/de/mobility-monitor)    
+
 Documentation: https://www.covid-19-mobility.org/data-info/
 
 German cities down to neighbourhood/district level
